@@ -1,5 +1,5 @@
 # HolaMundo
-Creación de repositorio para Xlaunch
+Creación de repositorio para LaunchX
 
 Autor: Monroy Fernandez Jose Luis 
-Feccha: 10/02/2022
+Fecha: 10/02/2022
